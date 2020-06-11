@@ -1,0 +1,12 @@
+cmn_dev/spectral/core/spectral_offload.c
+cmn_dev/spectral/core/spectral_common.c
+cmn_dev/spectral/dispatcher/src/wlan_spectral_utils_api.c
+cmn_dev/spectral/dispatcher/src/wlan_spectral_ucfg_api.c
+cmn_dev/spectral/dispatcher/src/wlan_spectral_tgt_api.c
+cmn_dev/spectral/core/spectral_module.c
+cmn_dev/os_if/linux/spectral/src/wlan_cfg80211_spectral.c
+cmn_dev/os_if/linux/spectral/src/os_if_spectral_netlink.c
+cmn_dev/target_if/spectral/target_if_spectral.c
+cmn_dev/target_if/spectral/target_if_spectral_netlink.c
+cmn_dev/target_if/spectral/target_if_spectral_phyerr.c
+cmn_dev/target_if/spectral/target_if_spectral_sim.c
